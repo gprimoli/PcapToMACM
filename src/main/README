@@ -1,0 +1,2 @@
+Covert pcapng to pcap
+tshark -F pcap -r file.pcapng -w file.pcap
